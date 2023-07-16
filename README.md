@@ -1,10 +1,6 @@
 # BI_HR_Analysis
 Power_BI_in_HumanResources_Analysis 
 
-
-# Power_BI_in_Sales_Analysis
-Power_BI_in_Sales_Analysis 
-
 ![hr](cover.jpg)
 
 ## Introduction
@@ -58,7 +54,7 @@ hr  Table has been modelled with:
 - Date Table using the "hire_date"
 - Date Tables via "Date"
 
-![model](DataModelling.png)
+![model](model.png)
 
 
 ## Data Aanalysis/ Visualization
@@ -67,7 +63,7 @@ Applied some Dax Function to get the required information
 
 ## HR analysis
 
-![](HRRepo.png)
+![](hr.png)
 
 #### Company has about 20K employee with 75% work from headquarter compared with 25% work remotely.
 #### termination rate highly decresing since 2000 to 2020.
